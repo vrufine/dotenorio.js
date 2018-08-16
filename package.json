@@ -1,27 +1,26 @@
 {
-  "name": "marcos",
-  "version": "1.1.0",
+  "name": "dotenorio",
+  "version": "1.0.0",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "postinstall": "node bin.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eptaccio/marcos.js.git"
+    "url": "git+https://github.com/dotenorio/dotenorio.js.git"
   },
   "keywords": [
-    "marcos",
-    "eptaccio",
+    "dotenorio",
     "jsdev"
   ],
-  "author": "@eptaccio",
+  "author": "@dotenorio",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/eptaccio/marcos.js/issues"
+    "url": "https://github.com/dotenorio/dotenorio.js/issues"
   },
   "bin": {
-    "marcos": "bin.js"
+    "dotenorio": "bin.js"
   },
-  "homepage": "https://github.com/eptaccio/marcos.js#readme",
+  "homepage": "https://github.com/dotenorio/dotenorio.js#readme",
   "dependencies": {}
 }
