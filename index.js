@@ -10,5 +10,5 @@ module.exports = () => ({
   facebook: 'https://www.facebook.com/dotenorio',
   telegram: 'https://telegram.me/dotenorio',
   email: 'dotenorio@gmail.com',
-  blog: 'http://dotenorio.github.io'
+  blog: 'https://blog.dotenorio.com'
 })
