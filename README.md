@@ -2,7 +2,7 @@
 
 `npm i -g dotenorio`
 
-# usage
+## usage
 
 ```bash
 $ dotenorio [arg]
