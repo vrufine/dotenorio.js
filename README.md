@@ -5,5 +5,5 @@
 ## usage
 
 ```bash
-$ dotenorio [arg]
+$ dotenorio
 ```
